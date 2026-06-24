@@ -1,0 +1,11 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ASDW_SFDK_I",
+      "ASDW_SFDK_USERS"
+    ],
+    "ASSOCIATED": [
+      "ASDW_SFDK_USERS"
+    ]
+  }
+}

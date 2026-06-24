@@ -1,0 +1,7 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ASDW_T_001"
+    ]
+  }
+}
